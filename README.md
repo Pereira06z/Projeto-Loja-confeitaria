@@ -62,30 +62,7 @@ forninho-da-lili/
 │   └── 02_dados_exemplo.sql
 ├── docs/                     # prints e documentação do projeto
 └── Dockerfile                # PHP 8.2 + Apache + SQLite
-🚀 Como rodar
-Use um servidor local, para o site e o painel compartilharem os mesmos dados.
 
-Com PHP (o mesmo comando servirá a versão com banco):
-
-bash
-Copiar
-git clone https://github.com/matheusaribeirodev/forninho-da-lili.git
-cd forninho-da-lili
-php -S localhost:8000
-Ou abra a pasta no VS Code e use a extensão Live Server.
-
-Endereço	O que abre
-http://localhost:8000	Site do cliente
-http://localhost:8000/admin	Painel da Lili
-Acesso de demonstração: usuário lili · senha forninho2026
-
-Com Docker:
-
-bash
-Copiar
-docker build -t forninho-da-lili .
-docker run -p 8080:80 forninho-da-lili
-[!TIP] Teste rápido: cadastre um doce no painel, abra o Cardápio e atualize a página. Ele já está lá. Desative e ele some.
 
 🗄️ Banco de dados
 O modelo já está pronto para SQLite em banco/01_criar_tabelas.sql:
