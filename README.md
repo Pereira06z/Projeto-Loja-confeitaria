@@ -30,11 +30,13 @@ Docker
 
 O projeto começou como uma landing page e evoluiu para um site com páginas independentes e um painel administrativo.
 
-Atualmente, a versão demonstrativa utiliza localStorage para armazenar os dados no navegador. A integração completa com PHP e SQLite, incluindo autenticação segura no servidor, está prevista para as próximas etapas.
+Atualmente, a versão demonstrativa utiliza localStorage para armazenar os dados no navegador.
+
+A integração completa com PHP e SQLite, incluindo autenticação segura no servidor, está prevista para as próximas etapas.
 
 🚀 Melhorias futuras
 Integração com PHP e SQLite.
-Autenticação segura no painel.
+Autenticação segura no painel administrativo.
 Carrinho de compras integrado ao WhatsApp.
 Cadastro de categorias pelo painel.
 Adição de fotos reais dos produtos.
@@ -42,11 +44,11 @@ Adição de fotos reais dos produtos.
 
 Projeto desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas — SENAI.
 
-Matheus Augusto Ribeiro — @matheusaribeirodev
-Gustavo Pereira — @Pereira06z
-Luis Neto — @luisneto016
-João Torres — @joaotorresdev
+Matheus Augusto Ribeiro
+Gustavo Pereira
+Luis Neto
+João Torres
 
 <p align="center">
-🍓 Desenvolvido com carinho pela equipe Forninho da Lili.
+🍓 <strong>Desenvolvido com carinho pela equipe Forninho da Lili.</strong>
 </p>
