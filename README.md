@@ -131,11 +131,10 @@ Esta versão tem como objetivo demonstrar a interface, as funcionalidades e a es
 
 Projeto desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas — SENAI.
 
-Integrante	GitHub
-Matheus Augusto Ribeiro	@matheusaribeirodev
-Gustavo Pereira	@Pereira06z
-Luis Neto	@luisneto016
-João Torres	@joaotorresdev
+-Matheus Augusto Ribeiro	@matheusaribeirodev
+-Gustavo Pereira	@Pereira06z
+-Luis Neto	@luisneto016
+-João Torres	@joaotorresdev
 
 <p align="center">
 🍓 <strong>Forninho da Lili</strong><br>
